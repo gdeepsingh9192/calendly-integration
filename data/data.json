@@ -1,0 +1,13 @@
+{
+    "users": {
+        "gdeepsingh9192@gmail.com": {
+            "orgId": "https://api.calendly.com/organizations/59919f0d-eb83-4855-973d-75fae7b898cc",
+            "calendlyUserId": "https://api.calendly.com/users/ab6e52bd-b9e9-42f4-9541-278904a1c45b"
+        },
+        "gds9192@gmail.com": {
+            "orgId": "https://api.calendly.com/organizations/59919f0d-eb83-4855-973d-75fae7b898cc",
+            "calendlyUserId": "https://api.calendly.com/users/5a543818-5e95-48cb-a386-9621843a0698"
+        }
+    },
+    "apiToken": "eyJraWQiOiIxY2UxZTEzNjE3ZGNmNzY2YjNjZWJjY2Y4ZGM1YmFmYThhNjVlNjg0MDIzZjdjMzJiZTgzNDliMjM4MDEzNWI0IiwidHlwIjoiUEFUIiwiYWxnIjoiRVMyNTYifQ.eyJpc3MiOiJodHRwczovL2F1dGguY2FsZW5kbHkuY29tIiwiaWF0IjoxNjY1Mjg4ODc5LCJqdGkiOiI4MTBkN2MyNi1mNGNiLTQ5MGUtYTk3MS1iMDk2NzlmNjliODIiLCJ1c2VyX3V1aWQiOiJhYjZlNTJiZC1iOWU5LTQyZjQtOTU0MS0yNzg5MDRhMWM0NWIifQ.Dh3CaZ7KD6RzVFmUFogW6-KR_-spGzzTUVFJYNZBa8pMEJjArMDMb3EUPDfWBQsT6gZMosClioP-igtXNvehyA"
+}
