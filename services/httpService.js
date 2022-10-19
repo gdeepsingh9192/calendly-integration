@@ -6,7 +6,7 @@ const https = require('https')
 var makeRequest = function(options) {
     return new Promise((resolve, reject) => {
         debug(`Initiating request with options ${options}`)
-        let dispatcher = (options.protocol == 'https') ? https : http
+        let dispatcher = (options.protocol == 'https:') ? https : http
         let req = dispatcher.request(options, (res) => {
             res.on('error', (err) => {
                 debug(`Received error response ${err}`)
